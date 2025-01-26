@@ -1,0 +1,2 @@
+# dsti
+math statistical basics 
